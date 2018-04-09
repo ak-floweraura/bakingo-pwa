@@ -1,0 +1,9 @@
+{
+  "name": "Umami Magazine",
+  "short_name": "Umami",
+  "icons": [],
+  "theme_color": "#00695c",
+  "background_color": "#f9f9f9",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest"
+}
